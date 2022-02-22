@@ -1,4 +1,4 @@
-# Python-Mechanism
+# Walking Robot - Gait Profile Generation | Python, PyGame
 
 A Python program that generates walking gait profiles for 3-degree of freedom robots. 
 
